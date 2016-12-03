@@ -1,14 +1,14 @@
 {
   "name": "tessel-soil-moisture-sensor",
-  "version": "0.0.1",
-  "description": "Tessel project",
+  "version": "0.0.2",
+  "description": "Soil moisture sensor for Tessel",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "www.github.com/tessel/t2-cli"
+    "url": "https://github.com/sarmadsangi/tessel-soil-moisture-sensor"
   },
   "keywords": [
     "Tessel"
