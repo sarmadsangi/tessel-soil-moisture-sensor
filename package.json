@@ -1,6 +1,6 @@
 {
   "name": "tessel-soil-moisture-sensor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Soil moisture sensor for Tessel",
   "main": "index.js",
   "scripts": {
