@@ -13,7 +13,7 @@ Tessel + Soil Moisture Sensor (SEN-13322)
 
 ## Usage
 
-```
+```JavaScript
 const getSoilMoistureReading = require('tessel-soil-moisture-sensor');
 
 getSoilMoistureReading((value) => {
